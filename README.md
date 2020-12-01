@@ -10,4 +10,4 @@ The links below provide information about myself as well as some projects I work
 * [About Me](https://github.com/CalvinNanneman/INFOTC-1000-Final/blob/main/About%20Me.md#about-me)
 * [Object Position Calculator](https://github.com/CalvinNanneman/INFOTC-1000-Final/blob/main/Animal%20Generator.md#animal-generator)
 * [Animal Generator]()
-* [Favorite Video Games]()
+* [Favorite Video Games](https://github.com/CalvinNanneman/INFOTC-1000-Final/blob/main/Favorite%20Video%20Games.md#favorite-video-games)
