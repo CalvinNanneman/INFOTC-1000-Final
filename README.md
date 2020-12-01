@@ -7,7 +7,7 @@ I enjoyed this semester a lot. This class exposed me to different areas of IT th
 
 The links below provide information about myself as well as some projects I worked on over this semester
 
-* About Me
+* [About Me](https://github.com/CalvinNanneman/INFOTC-1000-Final/blob/main/About%20Me.md#about-me)
 * Object Position Calculator
 * Animal Generator 
 * Favorite Video Games
