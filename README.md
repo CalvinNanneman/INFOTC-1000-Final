@@ -1,6 +1,6 @@
 # Welcome to Calvin's INFOTC 1000 Final Project
 
-I enjoyed this semester a lot. This class exposed me to different areas of IT that I had no experience with prior. I particularly enjoyed learning about different programing languages to include HTML, JavaScript, and Python. 
+I enjoyed this semester a lot. This class exposed me to different areas of IT that I had no prior experience with. I particularly enjoyed learning about different programing languages to include HTML, JavaScript, and Python. 
 
 
 ## About me
