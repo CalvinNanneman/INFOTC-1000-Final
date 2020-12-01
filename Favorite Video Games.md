@@ -11,4 +11,4 @@ In the past I have enjoyed a myriad of games, from first person shooters like **
 
 I am not very good at League of Legends but you can check my stats [here](https://na.op.gg/summoner/userName=CalvinNNN42)
 
-[Return to Home]()
+[Return to Home](https://github.com/CalvinNanneman/INFOTC-1000-Final/blob/main/README.md#welcome-to-calvins-infotc-1000-final-project)
